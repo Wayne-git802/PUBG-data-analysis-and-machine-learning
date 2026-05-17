@@ -2,7 +2,7 @@
 
 A comprehensive PySpark ML study on PUBG player behavior — predicting placement, classifying Top 25% finishes, and discovering playstyle archetypes from ~4.45 million player records.
 
-**Course:** DS3003 Data Science Project, Spring 2026  
+**Course:** DS3003 Data Science Project, Spring 2026
 **Group 13:** Zhengyong Huang, Zhen Liu, Yihan Wei, Zewang Wang
 
 ## Overview
@@ -32,7 +32,7 @@ Raw Data (4.45M rows)
 
 ```
 ├── pubg_ml_pipeline.ipynb    # Full PySpark ML pipeline (89 cells, cleaned outputs)
-├── PUBG_Report.docx          # Final project report (PDF/Word)
+├── PUBG_Report.docx          # Final project report
 ├── outputs/                  # Generated results (CSV tables, charts)
 │   ├── regression_results.csv
 │   ├── classification_results.csv
