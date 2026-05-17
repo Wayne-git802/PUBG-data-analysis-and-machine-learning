@@ -1,0 +1,6 @@
+mode,cluster,top_above_average_features,top_below_average_features
+solo,0,"boostHealRatio (0.85), weaponsAcquired (0.48), damagePerKill (0.45), walkDistance (0.43), headshotRate (0.37), boosts (0.30)","totalDistance (0.13), heals (0.06), swimDistance (0.03), rideDistance (-0.15), assists (-0.24), supportActions (-0.24)"
+solo,1,"swimDistance (-0.11), assists (-0.24), supportActions (-0.24), rideDistance (-0.29), headshotRate (-0.35), heals (-0.37)","damageDealt (-0.50), totalDistance (-0.52), healsAndBoosts (-0.53), boosts (-0.58), walkDistance (-0.58), boostHealRatio (-0.66)"
+solo,2,"kills (2.62), combatContribution (2.52), damageDealt (2.52), boosts (2.05), healsAndBoosts (1.75), walkDistance (1.42)","boostHealRatio (0.92), weaponsAcquired (0.87), rideDistance (0.28), swimDistance (0.18), assists (0.01), supportActions (0.01)"
+solo,3,"rideDistance (2.44), totalDistance (2.36), healsAndBoosts (1.40), heals (1.39), walkDistance (1.15), boosts (1.00)","headshotRate (0.02), kills (-0.01), damageDealt (-0.01), combatContribution (-0.04), assists (-0.21), supportActions (-0.21)"
+solo,4,"assists (3.98), supportActions (3.98), damagePerKill (0.99), combatContribution (0.94), damageDealt (0.63), boosts (0.40)","totalDistance (0.31), weaponsAcquired (0.23), heals (0.22), headshotRate (0.19), rideDistance (0.14), swimDistance (0.05)"
